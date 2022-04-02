@@ -1,0 +1,4 @@
+Bill breakdowm: 
+ccc:                 .... $4 
+Tip:                 .... $0.00
+Total:               .... $4.00
